@@ -9,6 +9,7 @@
 - выполнить в командной строке команду docker-compose up -d
 
 Приложение запускается по адресу 127.0.0.1:5000
+Адрес на Heroku: https://hwe9.herokuapp.com/create_user
 
 Эндпоинты:
 
